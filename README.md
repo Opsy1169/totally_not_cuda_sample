@@ -1,4 +1,4 @@
-#Simple programm for matrix multiplication using cuda
+# Simple program for matrix multiplication using cuda
 # System
 | Name  | Value |
 | ------------- | ------------- |
