@@ -1,4 +1,5 @@
 # Simple program for matrix multiplication using cuda
+
 # System
 | Name  | Value |
 | ------------- | ------------- |
@@ -7,8 +8,8 @@
 | RAM | 6GB |
 | OS | Windows 10 64 | 
 
-#Time measurments for square matrices. Average for 5 measurments of each size
-
+# Time measurments for square matrices. 
+Average for 5 measurments of each size
 | Matrix size | Time CPU, msec | Time GPU, msec | CPU/GPU ratio|
 |-------------|----------|----------|------------|
 |256x256| 252| 11| 22.9|
